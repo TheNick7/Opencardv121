@@ -1,202 +1,56 @@
-2025-11-29 03:05:06 INFO  Utils:112 -
-			[TestNG] Running:
-  C:\Users\Admin\eclipse-workspace\Opencardv121\grid-docker.xml
-
-2025-11-29 03:05:06 ERROR TC001_AccountRegistrationTest:62 -
-			Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
-2025-11-29 03:05:06 INFO  TC001_AccountRegistrationTest:69 -
-			***** Finished TC001_AccountRegistrationTest *****
-2025-11-29 03:06:39 INFO  Utils:112 -
-			[TestNG] Running:
-  C:\Users\Admin\eclipse-workspace\Opencardv121\grid-docker.xml
-
-2025-11-29 03:06:39 ERROR TC001_AccountRegistrationTest:62 -
-			Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
-2025-11-29 03:06:39 INFO  TC001_AccountRegistrationTest:69 -
-			***** Finished TC001_AccountRegistrationTest *****
-2025-11-29 03:26:34 INFO  Utils:112 -
-			[TestNG] Running:
-  C:\Users\Admin\eclipse-workspace\Opencardv121\grid-docker.xml
-
-2025-11-29 03:26:35 ERROR TC001_AccountRegistrationTest:62 -
-			Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
-2025-11-29 03:26:35 INFO  TC001_AccountRegistrationTest:69 -
-			***** Finished TC001_AccountRegistrationTest *****
-2025-11-29 03:27:25 INFO  Utils:112 -
-			[TestNG] Running:
-  C:\Users\Admin\eclipse-workspace\Opencardv121\grid-docker.xml
-
-2025-11-29 03:27:25 ERROR TC001_AccountRegistrationTest:62 -
-			Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
-2025-11-29 03:27:25 INFO  TC001_AccountRegistrationTest:69 -
-			***** Finished TC001_AccountRegistrationTest *****
-2025-11-29 03:39:19 INFO  Utils:112 -
-			[TestNG] Running:
-  C:\Users\Admin\eclipse-workspace\Opencardv121\grid-docker.xml
-
-2025-11-29 03:39:20 ERROR TC001_AccountRegistrationTest:62 -
-			Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
-2025-11-29 03:39:20 INFO  TC001_AccountRegistrationTest:69 -
-			***** Finished TC001_AccountRegistrationTest *****
-2025-11-29 03:43:57 INFO  Utils:112 -
+2025-12-01 00:07:19 INFO  Utils:112 -
 			[TestNG] Running:
   C:\Users\Admin\eclipse-workspace\Opencardv121\master.xml
 
-2025-11-29 03:45:18 INFO  Utils:112 -
+2025-12-01 00:07:30 INFO  TC001_AccountRegistrationTest:22 -
+			********** Clicked on myAccount link **********
+2025-12-01 00:07:31 INFO  TC001_AccountRegistrationTest:24 -
+			********** Clicked on Register link **********
+2025-12-01 00:07:31 INFO  TC001_AccountRegistrationTest:27 -
+			**********Providing customer details**********
+2025-12-01 00:07:37 INFO  TC001_AccountRegistrationTest:47 -
+			********** Validating excepted details. **********
+2025-12-01 00:07:37 INFO  TC001_AccountRegistrationTest:52 -
+			Test passed
+2025-12-01 00:07:38 INFO  TC001_AccountRegistrationTest:69 -
+			***** Finished TC001_AccountRegistrationTest *****
+2025-12-01 00:07:40 INFO  TC002_LoginTest:16 -
+			********* Starting TC002_LoginTest ***********
+2025-12-01 00:07:43 INFO  TC002_LoginTest:45 -
+			********* Finished TC002_LoginTest ***********
+2025-12-01 00:07:47 INFO  TC003_LoginDDT:26 -
+			**** Starting TC_003_LoginDDT *****
+2025-12-01 00:07:50 INFO  TC003_LoginDDT:85 -
+			**** Finished TC_003_LoginDDT *****
+2025-12-01 00:07:50 INFO  TC003_LoginDDT:26 -
+			**** Starting TC_003_LoginDDT *****
+2025-12-01 00:08:02 INFO  TC003_LoginDDT:85 -
+			**** Finished TC_003_LoginDDT *****
+2025-12-01 00:08:02 INFO  TC003_LoginDDT:26 -
+			**** Starting TC_003_LoginDDT *****
+2025-12-01 00:08:14 INFO  TC003_LoginDDT:85 -
+			**** Finished TC_003_LoginDDT *****
+2025-12-01 00:08:14 INFO  TC003_LoginDDT:26 -
+			**** Starting TC_003_LoginDDT *****
+2025-12-01 00:08:26 INFO  TC003_LoginDDT:85 -
+			**** Finished TC_003_LoginDDT *****
+2025-12-01 00:08:26 INFO  TC003_LoginDDT:26 -
+			**** Starting TC_003_LoginDDT *****
+2025-12-01 00:08:38 INFO  TC003_LoginDDT:85 -
+			**** Finished TC_003_LoginDDT *****
+2025-12-01 00:08:38 INFO  TC003_LoginDDT:26 -
+			**** Starting TC_003_LoginDDT *****
+2025-12-01 00:08:41 INFO  TC003_LoginDDT:85 -
+			**** Finished TC_003_LoginDDT *****
+2025-12-01 00:11:01 INFO  Utils:112 -
 			[TestNG] Running:
   C:\Users\Admin\eclipse-workspace\Opencardv121\master.xml
 
-2025-11-29 03:46:00 INFO  TC001_AccountRegistrationTest:22 -
-			********** Clicked on myAccount link **********
-2025-11-29 03:46:03 INFO  TC001_AccountRegistrationTest:24 -
-			********** Clicked on Register link **********
-2025-11-29 03:46:03 INFO  TC001_AccountRegistrationTest:27 -
-			**********Providing customer details**********
-2025-11-29 03:46:11 INFO  TC001_AccountRegistrationTest:47 -
-			********** Validating excepted details. **********
-2025-11-29 03:46:11 INFO  TC001_AccountRegistrationTest:52 -
-			Test passed
-2025-11-29 03:46:13 INFO  TC001_AccountRegistrationTest:69 -
-			***** Finished TC001_AccountRegistrationTest *****
-2025-11-29 03:46:19 INFO  TC002_LoginTest:16 -
-			********* Starting TC002_LoginTest ***********
-2025-11-29 03:46:24 INFO  TC002_LoginTest:45 -
-			********* Finished TC002_LoginTest ***********
-2025-11-29 03:46:33 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 03:46:38 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 03:46:38 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 03:46:51 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 03:46:51 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 03:47:04 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 03:47:04 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 03:47:17 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 03:47:17 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 03:47:29 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 03:47:29 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 03:47:34 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 03:51:33 INFO  Utils:112 -
-			[TestNG] Running:
-  C:\Users\Admin\eclipse-workspace\Opencardv121\grid-docker.xml
-
-2025-11-29 03:51:34 ERROR TC001_AccountRegistrationTest:62 -
-			Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
-2025-11-29 03:51:34 INFO  TC001_AccountRegistrationTest:69 -
-			***** Finished TC001_AccountRegistrationTest *****
-2025-11-29 20:46:24 INFO  TC001_AccountRegistrationTest:22 -
-			********** Clicked on myAccount link **********
-2025-11-29 20:46:25 INFO  TC001_AccountRegistrationTest:24 -
-			********** Clicked on Register link **********
-2025-11-29 20:46:25 INFO  TC001_AccountRegistrationTest:27 -
-			**********Providing customer details**********
-2025-11-29 20:46:30 INFO  TC001_AccountRegistrationTest:47 -
-			********** Validating excepted details. **********
-2025-11-29 20:46:30 INFO  TC001_AccountRegistrationTest:52 -
-			Test passed
-2025-11-29 20:46:31 INFO  TC001_AccountRegistrationTest:69 -
-			***** Finished TC001_AccountRegistrationTest *****
-2025-11-29 20:46:33 INFO  TC002_LoginTest:16 -
-			********* Starting TC002_LoginTest ***********
-2025-11-29 20:46:35 INFO  TC002_LoginTest:45 -
-			********* Finished TC002_LoginTest ***********
-2025-11-29 20:46:39 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 20:46:42 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 20:46:42 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 20:46:54 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 20:46:54 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 20:47:06 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 20:47:06 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 20:47:18 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 20:47:18 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 20:47:30 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 20:47:30 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 20:47:33 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 21:02:40 INFO  TC001_AccountRegistrationTest:22 -
-			********** Clicked on myAccount link **********
-2025-11-29 21:02:41 INFO  TC001_AccountRegistrationTest:24 -
-			********** Clicked on Register link **********
-2025-11-29 21:02:41 INFO  TC001_AccountRegistrationTest:27 -
-			**********Providing customer details**********
-2025-11-29 21:02:46 INFO  TC001_AccountRegistrationTest:47 -
-			********** Validating excepted details. **********
-2025-11-29 21:02:46 INFO  TC001_AccountRegistrationTest:52 -
-			Test passed
-2025-11-29 21:02:47 INFO  TC001_AccountRegistrationTest:69 -
-			***** Finished TC001_AccountRegistrationTest *****
-2025-11-29 21:02:49 INFO  TC002_LoginTest:16 -
-			********* Starting TC002_LoginTest ***********
-2025-11-29 21:02:51 INFO  TC002_LoginTest:45 -
-			********* Finished TC002_LoginTest ***********
-2025-11-29 21:02:55 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 21:02:57 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 21:02:57 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 21:03:09 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 21:03:09 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 21:03:21 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 21:03:21 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 21:03:33 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 21:03:33 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 21:03:45 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 21:03:45 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 21:03:48 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 21:12:32 INFO  TC001_AccountRegistrationTest:22 -
-			********** Clicked on myAccount link **********
-2025-11-29 21:12:32 INFO  TC001_AccountRegistrationTest:24 -
-			********** Clicked on Register link **********
-2025-11-29 21:12:32 INFO  TC001_AccountRegistrationTest:27 -
-			**********Providing customer details**********
-2025-11-29 21:12:38 INFO  TC001_AccountRegistrationTest:47 -
-			********** Validating excepted details. **********
-2025-11-29 21:12:38 INFO  TC001_AccountRegistrationTest:52 -
-			Test passed
-2025-11-29 21:12:38 INFO  TC001_AccountRegistrationTest:69 -
-			***** Finished TC001_AccountRegistrationTest *****
-2025-11-29 21:12:40 INFO  TC002_LoginTest:16 -
-			********* Starting TC002_LoginTest ***********
-2025-11-29 21:12:43 INFO  TC002_LoginTest:45 -
-			********* Finished TC002_LoginTest ***********
-2025-11-29 21:12:48 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 21:12:51 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 21:12:51 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
-2025-11-29 21:13:03 INFO  TC003_LoginDDT:85 -
-			**** Finished TC_003_LoginDDT *****
-2025-11-29 21:13:03 INFO  TC003_LoginDDT:26 -
-			**** Starting TC_003_LoginDDT *****
+2025-12-01 00:11:04 INFO  TC004_SearchProductTest:14 -
+			 Starting TC_004_SearchProductTest 
+2025-12-01 00:11:08 INFO  TC004_SearchProductTest:34 -
+			 Finished TC_004_SearchProductTest 
+2025-12-01 00:11:10 INFO  TC005_AddToCartPageTest:15 -
+			 Starting TC_005_AddToCartPageTest 
+2025-12-01 00:11:14 INFO  TC005_AddToCartPageTest:41 -
+			 Finished TC_004_SearchProductTest 
